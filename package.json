@@ -1,0 +1,10 @@
+{
+  "name": "stackdriver-error-reporting-clientside-js-client",
+  "version": "0.1.0",
+  "description": "Unofficial client for Google Cloud's Stackdriver Error Reporting that will run from client-side JS.",
+  "main": "index.js",
+  "repository": "https://github.com/ternandsparrow/stackdriver-error-reporting-clientside-js-client",
+  "author": "Tom Saleeba <tom.saleeba@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
