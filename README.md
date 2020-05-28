@@ -19,7 +19,7 @@ nicer to use.
 # How to use
   1. install
       ```bash
-      yarn add https://github.com/ternandsparrow/stackdriver-error-reporting-clientside-js-client
+      yarn add 'https://github.com/ternandsparrow/stackdriver-error-reporting-clientside-js-client#v0.1.0'
       ```
   1. import
       ```javascript
